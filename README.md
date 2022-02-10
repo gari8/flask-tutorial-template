@@ -12,5 +12,8 @@
 ### open /hello endpoint
 `make open`
 
-### git commit & push
-`make git-push`
+### git add & commit
+`make commit`
+
+### git push
+`make push`
