@@ -23,7 +23,7 @@
 # 手順
 
 1. cloneしてくる
-   1. `git clone git@github.com:gari8/flask-tutorial-template.git && flask-tutorial-template`
+   1. `git clone git@github.com:gari8/flask-tutorial-template.git && cd flask-tutorial-template`
 2. .gitファイルを作り直す
    1. `sudo rm -rf .git && git init`
 3. dockerを起動する
